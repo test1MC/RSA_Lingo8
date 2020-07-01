@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="14633459-6feb-41c5-a778-71bd78d17b12">
+<LingoProject TargetLanguage="ar;ar-eg" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="14633459-6feb-41c5-a778-71bd78d17b12" ActiveLanguage="ar-eg">
     <ProjectFile Source="Target/SC-Flare.flprj" Target="Target/SC-Flare.flprj" />
 </LingoProject>
